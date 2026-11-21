@@ -1,0 +1,4 @@
+PROJECT: Tugas Minggu 6 - Pemrograman Berorientasi Objek untuk Sistem AI Agenik
+Folder ini merupakan kelanjutan source code Minggu 5 untuk menyelesaikan modul KRS Minggu 6.
+Nama folder pengumpulan: pmb_app_tugas_minggu6_krs
+Baca README.md dan docs/VERIFIKASI_MINGGU6.md sebelum menjalankan aplikasi.
